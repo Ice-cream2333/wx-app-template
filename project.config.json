@@ -16,8 +16,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.9.4",
-  "appid": "wx991987ffa2c2098f",
-  "projectname": "redBean",
+  "appid": "",
+  "projectname": "",
   "debugOptions": {
     "hidedInDevtools": []
   },
